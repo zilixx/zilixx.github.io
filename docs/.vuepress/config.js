@@ -27,10 +27,7 @@ module.exports = {
         ],
         sidebar: {
             '/blogs/data-structure/': [
-                {
-                    title: '介绍',
-                    path: '/blogs/data-structure/',
-                },
+                { title: '介绍', path: '/blogs/data-structure/' },
                 { title: '集合', path: '/blogs/data-structure/collection/' },
                 { title: '链表', path: '/blogs/data-structure/linkedList/' },
                 { title: '队列', path: '/blogs/data-structure/queue/' },
@@ -49,6 +46,7 @@ module.exports = {
                         { title: 'gcc以及编译', path: '/blogs/linux/gcc以及编译' },
                         { title: 'LINUX文件权限和目录', path: '/blogs/linux/LINUX文件权限和目录' },
                         { title: 'vim操作', path: '/blogs/linux/vim操作' },
+                        { title: '测试持续部署', path: '/blogs/linux/测试持续部署' }
                     ]
                 },
                 {
