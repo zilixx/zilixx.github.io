@@ -1,6 +1,7 @@
 const path = require('path')
 
 module.exports = {
+    base: '/',
     title: '个人博客',
     locales: { // 多语言配置
         '/': {
